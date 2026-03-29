@@ -1,16 +1,69 @@
-# React + Vite
+🎓 Student Dashboard – Multi-User Tracking System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 A full-stack Student Tracking System built using React, HTML, CSS, and Java. This project provides a dynamic and interactive dashboard where students can monitor their academic and personal progress in one centralized platform.
 
-Currently, two official plugins are available:
+📌 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Student Dashboard is designed to help students efficiently manage and track:
 
-## React Compiler
+📚 Academic Subjects
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+⏱️ Study Time
 
-## Expanding the ESLint configuration
+❤️ Health Metrics
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎮 Free Time Activities
+
+💳 Subscriptions
+
+🌐 Portal Activities
+
+The system supports multiple student profiles, ensuring structured data management and a responsive user interface.
+
+🛠️ Tech Stack 🔹 Frontend
+
+⚛️ React.js
+
+🌐 HTML5
+
+🎨 CSS3
+
+🔹 Backend
+
+☕ Java
+
+RESTful APIs
+
+✨ Key Features
+
+✔️ Multi-user login and profile management ✔️ Dynamic academic progress tracking ✔️ Study time monitoring system ✔️ Health and lifestyle tracking module ✔️ Subscription management ✔️ Clean and responsive UI ✔️ Structured full-stack data handling
+
+📊 Dashboard Modules 📚 Academic Tracker
+
+Add & manage subjects
+
+Track performance and completion status
+
+⏳ Study Time Monitor
+
+Log daily study hours
+
+Visualize productivity trends
+
+❤️ Health Tracker
+
+Track basic health metrics
+
+Maintain balanced lifestyle overview
+
+🎯 Activity Monitor
+
+Track portal usage
+
+Manage subscriptions
+
+Monitor free-time activities
+
+🏗️ System Architecture
+
+Frontend (React UI) ⬇️ REST API ⬇️ Java Backend (Business Logic + Data Management)
